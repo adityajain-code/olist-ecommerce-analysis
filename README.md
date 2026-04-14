@@ -36,6 +36,28 @@ high revenue does not guarantee high satisfaction — the 2nd highest seller ear
 R$235,865 but had a below-average score of 3.35, suggesting volume-quality tradeoffs
 among top performers.
 
+### 5. Running Total of Monthly Revenue
+**What is the cumulative revenue growth over time?**
+
+Total cumulative revenue reached ~R$15.4M by August 2018. The running total shows
+the steepest growth period was between January and November 2017, where cumulative
+revenue grew from R$174K to R$6.1M — the core expansion phase of the business.
+
+### 6. Seller Revenue Rank
+**How do all sellers rank against each other by total revenue?**
+
+2,951 active sellers were ranked by total revenue. The top seller generated R$247,007
+while the revenue drop-off is steep — by rank 20 revenue falls to R$83,031, suggesting
+a small group of high-performing sellers drives a disproportionate share of total sales.
+
+### 7. Month-over-Month Revenue Growth
+**How did revenue change month over month?**
+
+The most explosive growth occurred in January 2017 (+649,557%) as the platform was
+just gaining traction from near-zero. After stabilizing, growth was mostly positive
+through mid-2017 before plateauing in 2018 with growth rates fluctuating between
+-10% and +16%, indicating a maturing business with consistent but slower expansion.
+
 ## Database
 - Tool: MySQL 8
 - Tables: 9
